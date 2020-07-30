@@ -2,7 +2,7 @@
  * MPU6050.c
  *
  *  Created on: 16 jul. 2020
- *      Author: pirul
+ *      Author: Victor Casado
  */
 
 #include "MPU6050.h"
