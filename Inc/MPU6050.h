@@ -1,8 +1,8 @@
 /*
- * MPU6050.h
+ * MPU6050.c
  *
  *  Created on: 16 jul. 2020
- *      Author: pirul
+ *      Author: Victor Casado
  */
 
 #ifndef INC_MPU6050_H_
